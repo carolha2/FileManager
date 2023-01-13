@@ -78,47 +78,47 @@ File management system that helps users store their files and share them.
 
 ### Screenshots
 
-#### Sign in
+#### Sign In
 
 ![](/images/sign%20in.png)
 
-#### login
+#### Login
 
 ![](/images/login.png)
 
-#### user information
+#### User Information
 
 ![](/images/profile.png)
 
-#### upload file
+#### Upload File
 
 ![](/images/upload%20file%20.png)
 
-#### preview
+#### Preview
 
 ![](/images/preview.png)
 
-#### upload success
+#### Upload Success
 
 ![](/images/uploaded.png)
 
-#### list of files
+#### List Of Files
 
 ![](/images/files.png)
 
-#### shared files
+#### Shared Files
 
 ![](/images/shared%20files.png)
 
-#### groups
+#### Groups
 
 ![](/images/groups.png)
 
-#### add groups
+#### Add Groups
 
 ![](/images/add%20group.png)
 
-#### reports
+#### Reports
 
 ![](/images/reports.png)
 
