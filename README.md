@@ -15,6 +15,24 @@
 </div>
 
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#features-include">Features Include</a></li>
+        <li><a href="#architecture">Architecture</a></li>
+        <li><a href="#non-functional-requirements">Non-functional Requirements</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#built-with">Built With</a>
+    </li>
+    <li><a href="#screenshots">Screenshots</a></li>
+  </ol>
+</details>
 
 
 
@@ -23,7 +41,7 @@
 
 File management system that helps users store their files and share them.
 
-Features include:
+#### Features Include:
 * Ability to choose which files to share with other users
 * Ability to lock and unlock files
 * Ability to read files without downloading them
@@ -31,7 +49,7 @@ Features include:
 * Groups for sharing files
 * Admin privilege
 
-Architect :
+#### Architecture:
 * Web aplication
 * phpMyAdmin
 * RESTful API
@@ -39,7 +57,7 @@ Architect :
 * JWT Authentication
 * JWT Authorization
 
-Non-functional Requirements :
+#### Non-Functional Requirements:
 * Logging
 * Load Balancing
 * Actuator
@@ -49,16 +67,17 @@ Non-functional Requirements :
 
 
 
-
+<!-- BUILT WITH -->
 ### Built With
 
 
 * [![React.js][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![SpringBoot][SpringBoot.js]][SpringBoot-url]
-
+<!-- SCREENSHOTS -->
 
 ### Screenshots
+
 #### Sign in
 
 ![](/images/sign%20in.png)
