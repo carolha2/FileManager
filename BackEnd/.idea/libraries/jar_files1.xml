@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jar_files1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ICU_Sign_In/jar_files" />
+      <root url="file://$PROJECT_DIR$/ICU_Sign_In/jar_files (2)" />
+      <root url="file://$PROJECT_DIR$/ICU_Sign_In/jdbc" />
+      <root url="file://$PROJECT_DIR$/ICU_Sign_In/Library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ICU_Sign_In/jar_files" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/ICU_Sign_In/jar_files (2)" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/ICU_Sign_In/jdbc" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/ICU_Sign_In/Library" recursive="false" />
+  </library>
+</component>
