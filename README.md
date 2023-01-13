@@ -58,7 +58,50 @@ Non-functional Requirements :
 * [![SpringBoot][SpringBoot.js]][SpringBoot-url]
 
 
+### Screenshots
+#### Sign in
 
+![](/images/sign%20in.png)
+
+#### login
+
+![](/images/login.png)
+
+#### user information
+
+![](/images/profile.png)
+
+#### upload file
+
+![](/images/upload%20file%20.png)
+
+#### preview
+
+![](/images/preview.png)
+
+#### upload success
+
+![](/images/uploaded.png)
+
+#### list of files
+
+![](/images/files.png)
+
+#### shared files
+
+![](/images/shared%20files.png)
+
+#### groups
+
+![](/images/groups.png)
+
+#### add groups
+
+![](/images/add%20group.png)
+
+#### reports
+
+![](/images/reports.png)
 
 
 
