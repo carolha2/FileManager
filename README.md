@@ -78,7 +78,7 @@ File management system that helps users store their files and share them.
 
 ### Screenshots
 
-#### Sign In
+#### Sign Up
 
 ![](/images/sign%20in.png)
 
